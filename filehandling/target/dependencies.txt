@@ -1,0 +1,5 @@
+digraph "com.filehandling:filehandling:jar:1.0-SNAPSHOT" { 
+	"com.filehandling:filehandling:jar:1.0-SNAPSHOT" -> "junit:junit:jar:4.11:test" ; 
+	"com.filehandling:filehandling:jar:1.0-SNAPSHOT" -> "commons-io:commons-io:jar:2.6:compile" ; 
+	"junit:junit:jar:4.11:test" -> "org.hamcrest:hamcrest-core:jar:1.3:test" ; 
+ } 

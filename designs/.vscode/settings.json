@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "ciphertext",
+        "fillx",
+        "Flatlaf",
+        "gapafter",
+        "gapbefore",
+        "gaptop",
+        "mycompany",
+        "PKCS",
+        "realpractice",
+        "Roboto"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.referencedLibraries": [
+        "library/**/*.jar",
+        "/library/swing-toast-notifications-1.0.1.jar"
+    ]
+}

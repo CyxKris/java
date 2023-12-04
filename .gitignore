@@ -1,0 +1,8 @@
+*.zip
+/*.txt
+00-notes/
+libraries/
+Libraries/
+SceneBuilder/
+embeddedjdbc/
+notepad-gui/
